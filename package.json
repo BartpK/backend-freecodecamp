@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Bart Kuipers",
 	"description": "Practice project",
-	"keywords": ["backend", "api"],
+	"keywords": ["backend", "api", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
